@@ -5,9 +5,9 @@ Doc InSight provides an augmented reality heads-up display for health care profe
 
 ## Dependencies
 
-https://opencv.org/releases.html
-http://zbar.sourceforge.net/download.html
-https://www.sqlite.org/index.html
+- https://opencv.org/releases.html
+- http://zbar.sourceforge.net/download.html
+- https://www.sqlite.org/index.html
 
 ## Usage
 
