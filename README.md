@@ -19,7 +19,7 @@ Doc InSight provides an augmented reality heads-up display for health care profe
 
 ## Usage
 
-To start Dr. Data, simply execute the compiled binary without parameters.
+To start Doc InSight, simply execute the compiled binary without parameters.
 
 By default, webcam device 0 will be used. If you need to change the device ID, do so in qr.cpp.
 
